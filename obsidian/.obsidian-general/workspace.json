@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c51fa5bc573f1e4c",
+            "id": "3a7db9c82d9c1940",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker.md",
+                "file": "asi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,38 @@
             }
           },
           {
-            "id": "2c2946a80da8730f",
+            "id": "318f58e6981c0f64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class_notes/linux 0.11.md",
+                "file": "articles/NOP作业提交过程梳理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b489e5a6252857db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "articles/NOP作业提交过程梳理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c7084a3c42fe815",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nebula-one-proxy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -47,14 +73,6 @@
         "id": "608a7d081ae1ec5d",
         "type": "tabs",
         "children": [
-          {
-            "id": "626eff8b11cb7a44",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
           {
             "id": "0040782ef2b38630",
             "type": "leaf",
@@ -71,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "preempt_interval",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,13 +114,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 215.5
   },
   "right": {
     "id": "b6a94215adc0b4cf",
@@ -118,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "class_notes/linux 0.11.md",
+                "file": "articles/NOP作业提交过程梳理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "class_notes/linux 0.11.md",
+                "file": "articles/NOP作业提交过程梳理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,12 +174,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "class_notes/linux 0.11.md"
+                "file": "articles/NOP作业提交过程梳理.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,55 +192,60 @@
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "remotely-save:Remotely Save": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "2c2946a80da8730f",
+  "active": "b489e5a6252857db",
   "lastOpenFiles": [
-    "pic/Pasted image 20230805090258.png",
-    "pic/Pasted image 20230805090216.png",
-    "pic/Pasted image 20230805090018.png",
-    "pic/Pasted image 20230805085934.png",
-    "pic/Pasted image 20230805085917.png",
-    "pic/Pasted image 20230805085749.png",
-    "pic/Pasted image 20230805085729.png",
-    "pic/Pasted image 20230805085715.png",
-    "pic/Pasted image 20230805085645.png",
-    "pic/Pasted image 20230805085623.png",
-    "pic/Pasted image 20230805085357.png",
-    "docker.md",
-    "ai-structure/memory.md",
-    "ai-structure/服务器相关.md",
-    "class_notes/linux 0.11.md",
+    "asi.md",
+    "nebula-one-proxy.md",
+    "开发工具.md",
+    "软件安装.md",
+    "diary/2023-GPU调度利用率优化.md",
+    "pangu.md",
+    "articles/NOP作业提交过程梳理.md",
+    "nebula2.md",
+    "Excalidraw/Drawing 2023-08-09 14.59.51.excalidraw.svg",
+    "pic/Pasted image 20230816084553.png",
+    "Themis.md",
+    "1-tasks.md",
+    "Excalidraw/Drawing 2023-08-17 10.51.53.excalidraw.svg",
+    "Excalidraw/Drawing 2023-08-17 10.51.53.excalidraw.md",
+    "diary/2023-08-17.md",
+    "0-Services.md",
+    "Nebulatctl.md",
+    "diary/2023-08-10.md",
+    "diary/2023-08-11.md",
     "未命名.canvas",
-    "tomcat.md",
-    "hulu架构图.md",
-    "elasticsearch.md",
-    "Excalidraw/Drawing 2023-06-16 18.52.48.excalidraw.md",
-    "articles/sql执行过程.md",
-    "notes.md",
-    "cpp.md",
-    "pyenv.md",
-    "golang.md",
-    "nvm.md",
-    "articles/mysql常用命令.md",
-    "mysql.md",
-    "树莓派.md",
-    "Excalidraw/Drawing 2023-06-07 09.23.21.excalidraw.md",
-    "Excalidraw",
-    "cisco-packet-tracer.md",
-    "articles/面试题.md",
-    "articles/mysql表空间结构.md",
-    "未命名",
-    "homebrew.md",
+    "未命名 1.canvas",
+    "HCRM.md",
+    "Excalidraw/Drawing 2023-08-09 14.59.51.excalidraw.md",
+    "pic/Pasted image 20230816142721.png",
+    "pic/Pasted image 20230816142710.png",
+    "pic/Pasted image 20230816131201.png",
+    "pic/Pasted image 20230816112239.png",
+    "pic/Pasted image 20230816094614.png",
+    "pic/Pasted image 20230816094410.png",
+    "pic/Pasted image 20230816092546.png",
+    "Excalidraw/Drawing 2023-08-14 14.03.40.excalidraw.md",
+    "diary/2023-08-08.md",
+    "files/nop/cluster_region.txt",
+    "files/nop/task_planner_config.json",
+    "files/nop/one-proxy-xdl_quota.json",
+    "files/one-proxy-xdl_quota.json",
+    "files/nop/未命名.canvas",
+    "files/nop/nop_spec.json",
+    "files/nop/未命名.md",
+    "files/nop",
+    "files",
     "articles",
-    "class_notes/mysql实战45讲.md",
-    "kafka.md",
-    "scala.md",
-    "interview",
-    "ai-structure",
-    "未命名 1.canvas"
+    "pic/task_scheduler_worker.py",
+    "thimes.md",
+    "Themes.md",
+    "develop_tools/python.md",
+    "Excalidraw",
+    "develop_tools/pyenv.md"
   ]
 }
