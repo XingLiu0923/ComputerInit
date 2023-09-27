@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "01a833d7285f2dee",
+        "id": "00a7695e13f59e4c",
         "type": "tabs",
         "children": [
           {
-            "id": "3a7db9c82d9c1940",
+            "id": "a6ddd5a8927ef8d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asi.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "318f58e6981c0f64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "articles/NOP作业提交过程梳理.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b489e5a6252857db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "articles/NOP作业提交过程梳理.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c7084a3c42fe815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nebula-one-proxy.md",
+                "file": "needs/2023-灵骏(PAI)全托管.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "preempt_interval",
+                "query": "扎堆",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 263.5
   },
   "right": {
     "id": "b6a94215adc0b4cf",
@@ -134,11 +94,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/NOP作业提交过程梳理.md",
-                "collapseAll": false,
+                "file": "needs/2023-灵骏(PAI)全托管.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -151,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "articles/NOP作业提交过程梳理.md",
+                "file": "needs/2023-灵骏(PAI)全托管.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,15 +134,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/NOP作业提交过程梳理.md"
+                "file": "needs/2023-灵骏(PAI)全托管.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,55 +159,56 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b489e5a6252857db",
+  "active": "a6ddd5a8927ef8d2",
   "lastOpenFiles": [
-    "asi.md",
+    "needs/2023-弹性任务被频繁kill和拉起.md",
+    "git.md",
     "nebula-one-proxy.md",
-    "开发工具.md",
-    "软件安装.md",
-    "diary/2023-GPU调度利用率优化.md",
-    "pangu.md",
-    "articles/NOP作业提交过程梳理.md",
-    "nebula2.md",
-    "Excalidraw/Drawing 2023-08-09 14.59.51.excalidraw.svg",
-    "pic/Pasted image 20230816084553.png",
-    "Themis.md",
-    "1-tasks.md",
-    "Excalidraw/Drawing 2023-08-17 10.51.53.excalidraw.svg",
-    "Excalidraw/Drawing 2023-08-17 10.51.53.excalidraw.md",
-    "diary/2023-08-17.md",
-    "0-Services.md",
-    "Nebulatctl.md",
-    "diary/2023-08-10.md",
-    "diary/2023-08-11.md",
-    "未命名.canvas",
-    "未命名 1.canvas",
-    "HCRM.md",
-    "Excalidraw/Drawing 2023-08-09 14.59.51.excalidraw.md",
-    "pic/Pasted image 20230816142721.png",
-    "pic/Pasted image 20230816142710.png",
-    "pic/Pasted image 20230816131201.png",
-    "pic/Pasted image 20230816112239.png",
-    "pic/Pasted image 20230816094614.png",
-    "pic/Pasted image 20230816094410.png",
-    "pic/Pasted image 20230816092546.png",
-    "Excalidraw/Drawing 2023-08-14 14.03.40.excalidraw.md",
-    "diary/2023-08-08.md",
-    "files/nop/cluster_region.txt",
-    "files/nop/task_planner_config.json",
-    "files/nop/one-proxy-xdl_quota.json",
-    "files/one-proxy-xdl_quota.json",
-    "files/nop/未命名.canvas",
-    "files/nop/nop_spec.json",
-    "files/nop/未命名.md",
-    "files/nop",
-    "files",
-    "articles",
-    "pic/task_scheduler_worker.py",
-    "thimes.md",
-    "Themes.md",
+    "needs/缺陷.md",
+    "needs/2023-GPU调度利用率优化.md",
+    "Dsight.md",
+    "asi.md",
     "develop_tools/python.md",
-    "Excalidraw",
-    "develop_tools/pyenv.md"
+    "开发工具.md",
+    "未命名.canvas",
+    "develop_tools/pyenv.md",
+    "diary/2023-09-21.md",
+    "Nebulatctl.md",
+    "diary/2023-09-22.md",
+    "StarAgent.md",
+    "pangu.md",
+    "webshell.md",
+    "oss.md",
+    "nebula2.md",
+    "HCRM.md",
+    "needs/2023-灵骏(PAI)全托管.md",
+    "Themis.md",
+    "diary/2023-09-14.md",
+    "diary/2023-09-07.md",
+    "1-tasks.md",
+    "develop_tools/docker.md",
+    "软件安装.md",
+    "pic/Pasted image 20230810161754.png",
+    "Excalidraw/Drawing 2023-09-06 21.10.29.excalidraw.svg",
+    "files/asi/k8s_source.json",
+    "files/asi",
+    "Excalidraw/Drawing 2023-08-17 10.51.53.excalidraw.svg",
+    "Excalidraw/Drawing 2023-08-30 22.20.16.excalidraw.svg",
+    "files/nop/redis_nebula_queue_detail.json",
+    "files/nop/redis_nebula_queue_detail",
+    "files/nop/xdl-0af4f7054000.json",
+    "files/nop/queue_affinity_tolerations_staging.json",
+    "files/nop/queue_affinity_tolerations.json",
+    "files/nop/test.json",
+    "files/nop/affinity.json",
+    "files/nop/one-proxy-xdl_quota_staging.json",
+    "pic/Pasted image 20230822163129.png",
+    "pic/Pasted image 20230822114019.png",
+    "Excalidraw/Drawing 2023-08-09 14.59.51.excalidraw.svg",
+    "pic/Pasted image 20230808180338.png",
+    "pic/Pasted image 20230816084553.png",
+    "未命名 1.canvas",
+    "pic/Pasted image 20230816142721.png",
+    "files/nop/未命名.canvas"
   ]
 }
