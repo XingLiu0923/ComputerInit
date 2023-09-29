@@ -16,3 +16,9 @@
 body {
     --file-line-width: calc(82vh);
   }
+
+/* 搜索高亮 */
+.suggestion-highlight {
+    font-weight: bold;
+    color:red;
+}
