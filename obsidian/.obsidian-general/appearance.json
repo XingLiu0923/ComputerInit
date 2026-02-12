@@ -1,9 +1,0 @@
-{
-  "accentColor": "#4b89c7",
-  "theme": "moonstone",
-  "cssTheme": "Typora-Vue",
-  "baseFontSize": 17,
-  "enabledCssSnippets": [
-    "my_snippets"
-  ]
-}
